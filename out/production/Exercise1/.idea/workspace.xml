@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abebfe16-c1f1-450a-ae0e-b673f264f13a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WWvXfbpKwQbJCubtO9PWntBWcY" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Libraries/javafx-sdk-11.0.2/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Exercise4Tester">
+    <configuration name="Exercise1Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.cam.cl.mlrd.testing.Exercise1Tester" />
+      <module name="Exercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.cam.cl.mlrd.exercises.sentiment_detection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.cam.cl.mlrd.testing.Exercise2Tester" />
+      <module name="Exercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.cam.cl.mlrd.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.cam.cl.an578.exercises.Exercise3" />
+      <module name="Exercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.cam.cl.an578.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.cam.cl.mlrd.testing.Exercise4Tester" />
+      <module name="Exercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.cam.cl.mlrd.testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupervisionOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.cam.cl.an578.exercises.SupervisionOne" />
+      <module name="Exercise1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.cam.cl.an578.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Exercise1Tester" />
+      <item itemvalue="Application.Exercise2Tester" />
+      <item itemvalue="Application.Exercise3" />
+      <item itemvalue="Application.SupervisionOne" />
+      <item itemvalue="Application.Exercise4Tester" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise4Tester" />
+        <item itemvalue="Application.Exercise3" />
+        <item itemvalue="Application.SupervisionOne" />
+        <item itemvalue="Application.Exercise2Tester" />
+        <item itemvalue="Application.Exercise1Tester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abebfe16-c1f1-450a-ae0e-b673f264f13a" name="Default Changelist" comment="" />
+      <created>1579278205331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579278205331</updated>
+    </task>
+    <servers />
+  </component>
+</project>
